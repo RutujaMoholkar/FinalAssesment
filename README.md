@@ -5,7 +5,7 @@ This is a simple website with background images and a headline. It also includes
 ## Getting Started
 
 To view the website, simply visit the following link:
-[My Website](https://RutujaMohokar.github.io/FinalAssesment)
+[My Website](https://rutujamoholkar.github.io/FinalAssesment/)
 
 ## How to Use
 
